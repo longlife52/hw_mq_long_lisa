@@ -1,0 +1,17 @@
+/*reset rule */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: #b22e39;
+}
+
+@media (min-width: 715px) and (max-width: 960px){
+    body {
+        background-color: #ffe4e1;
+    }
+
+}
